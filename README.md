@@ -7,3 +7,4 @@
 * Петренко Петро Петрович, група ІПЗ-24-1
 
 * Oleksandr Milevskyi, ЗІПЗ-24-1
+* Email: zipz241_mov@student.ztu.edu.ua
